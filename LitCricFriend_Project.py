@@ -1,5 +1,6 @@
 '''
 Juan Rios
+Frequency of text mini program
 '''
 
 # The Bells
